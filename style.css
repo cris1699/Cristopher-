@@ -177,6 +177,7 @@ body {
   justify-content: center;
   z-index: 1;
   overflow: hidden;
+  text-align: center;
   transition: .5s;
   
 }
