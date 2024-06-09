@@ -161,14 +161,14 @@ body {
 }
 
 .btn-box a {
-  position: relative;
-  display: inline-flex;
+  position: static;
+  display: inline-block;
   width: 100px;
   height: 80%;
   background: transparent;
   border: 2px solid aqua;
   border-radius: 8px;
-  font-size: 19px;
+  font-size: 25px;
   color: aqua;
   text-decoration: none;
   font-weight: 600;
