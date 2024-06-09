@@ -163,7 +163,7 @@ body {
 .btn-box a {
   position: relative;
   display: inline-flex;
-  width: 150px;
+  width: 100px;
   height: 80%;
   background: transparent;
   border: 2px solid aqua;
