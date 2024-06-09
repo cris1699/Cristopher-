@@ -173,6 +173,7 @@ body {
   text-decoration: none;
   font-weight: 600;
   letter-spacing: 1px;
+  box-sixing: border-box;
   justify-content: center;
   z-index: 1;
   overflow: hidden;
