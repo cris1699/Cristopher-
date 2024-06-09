@@ -164,7 +164,7 @@ body {
   position: relative;
   display: inline-flex;
   width: 150px;
-  height: 200%;
+  height: 100%;
   background: transparent;
   border: 2px solid aqua;
   border-radius: 8px;
